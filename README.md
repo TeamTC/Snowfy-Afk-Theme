@@ -19,7 +19,7 @@ Updates will be posted soon...
 
 # Credits
 
-Edited with ❤️ By TeamTC
-All credits and ❤️ Goes to Easy Tutorials !
+- Edited with ❤️ By TeamTC
+- All credits and ❤️ Goes to Easy Tutorials !
 
-Image credits Goes to - Google , Freepik , Icons8 (Actually i can't remember some of website names 😂️)
+- Image credits Goes to - Google , Freepik , Icons8 (Actually i can't remember some of website names 😂️)
