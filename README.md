@@ -27,6 +27,8 @@ What's New?'
 - Footer Menu added
 - Added some meta tags to get little bit Responsive with Tablet and Mobile!
 
+**[How to Update Snoowfy Afk](https://github.com/TeamTC/Snowfy-Afk-Theme/wiki/How-to-Update%3F)**
+
 # Credits
 
 - Edited with ❤️ By Hirusha-H ( A member of TeamTC )
