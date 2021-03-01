@@ -11,6 +11,9 @@ Here is the list of Features,
 - Animaed Snow Efect
 - Fast support from Us
 
+# Version
+Please note that Snowfy AFK is currently on **BETA** version
+
 # Support
 If you want support You can contact us via <a href="https://t.me/TheTeamTC"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
