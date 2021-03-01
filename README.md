@@ -12,7 +12,7 @@ Here is the list of Features,
 - Fast support from Us
 
 # Support
-If you want support You can contact us via 
+If you want support You can contact us via <a href="https://t.me/TheTeamTC"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 # Updates
 Updates will be posted soon...
