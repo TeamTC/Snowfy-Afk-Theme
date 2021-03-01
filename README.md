@@ -1,5 +1,7 @@
 # Snowfy AFK Theme
 Snowfy Afk Theme is a landing page theme. It's a part of ***AFK Themes*** which is Designed by Easy Tutorials and Edited by Hirusha-H and TeamTC.
+**[See Snowfy Afk Live](https://hirusha-h.github.io/)**
+
 
 # Features 🔥️
 Here is the list of Features,
