@@ -12,16 +12,20 @@ Here is the list of Features,
 - Fast support from Us
 
 # Version
-Please note that Snowfy AFK is currently on **BETA** version
+Please note that Snowfy AFK is currently on **BETA v0.01** version
 
 # Warning! ⚠️️
-This project is not Responsive with Mobile! A Responsive one will coming soon....
+This project is not fully Responsive with Mobile! A Responsive one will coming soon....
 
 # Support
 If you want support You can contact us via <a href="https://t.me/TheTeamTC"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 # Updates
-Updates will be posted soon...
+yay!🤩️ Snoowfy Afk Got it's first update!😋️
+
+What's New?'
+- Footer Menu added
+- Added some meta tags to get little bit Responsive with Tablet and Mobile!
 
 # Credits
 
