@@ -3,7 +3,7 @@ Snowfy Afk Theme is a landing page theme. It's a part of ***AFK Themes*** which 
 **[See Snowfy Afk Live](https://hirusha-h.github.io/)**
 
 # More About Snowfy
-<a href="https://github.com/TeamTC/Snowfy-Afk-Theme"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>  <a href="https://github.com/TeamTC/Snowfy-Afk-Theme"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+<a href="https://github.com/TeamTC/Snowfy-Afk-Theme"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>  <a href="https://github.com/TeamTC/Snowfy-Afk-Theme"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>  
 
 
 # Features 🔥️
@@ -35,7 +35,7 @@ This project is not fully Responsive with Mobile! A Responsive one will coming s
 
 
 # Support
-If you want support You can contact us via <a href="https://t.me/TheTeamTC"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+If you want support You can contact us via <a href="https://t.me/TheTeamTC"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>   <a href="https://chat.whatsapp.com/LTonlIoEvQLD1efNifd0TH"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 # Credits
 
