@@ -21,7 +21,9 @@ Here is the list of Features,
 
 
 # Hosting This!
-If you are going to host this on [Github Pages](https://pages.github.com/) or whatever Please take a Look at This **[Hosted Repo](https://github.com/Hirusha-H/Hirusha-H.github.io)** . It'll give you some ideas how to host it🤗️! before you host it make sure that you're Forked **[Snowfy Host Ready Repo!](https://github.com/Hirusha-H/Hirusha-H.github.io)** **[How To Host Snowfy Afk Theme](https://github.com/TeamTC/Snowfy-Afk-Theme/wiki/How-to-host-Snowfy-Afk)**
+If you are going to host this on [Github Pages](https://pages.github.com/) or whatever Please take a Look at This **[Hosted Repo](https://github.com/Hirusha-H/Hirusha-H.github.io)** . It'll give you some ideas how to host it🤗️! before you host it make sure that you're Forked **[Snowfy Host Ready Repo!](https://github.com/Hirusha-H/Hirusha-H.github.io)** 
+
+Read More at **[How To Host Snowfy Afk Theme](https://github.com/TeamTC/Snowfy-Afk-Theme/wiki/How-to-host-Snowfy-Afk)**
 
 
 # Updates
