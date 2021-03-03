@@ -35,8 +35,11 @@ What's New?'
 
 **[How to Update Snoowfy Afk](https://github.com/TeamTC/Snowfy-Afk-Theme/wiki/How-to-Update%3F)**
 
+# Source Code
+Well this is the Original source code but a New Beta v0.0.02 Update source is no here because it got an shitting errors. Anyway **[here it is](https://github.com/TeamTC/beta.snowfy-afk)**
+
 # Warning! ⚠️️
-This project is not fully Responsive with Mobile! A Responsive one will coming soon....
+Snowfy-Afk-Theme project is kinda closed because it is not fully Responsive with *Mobile*! but i'll keep updating this! btw a New Responsive one will coming soon...!
 
 
 # Support
